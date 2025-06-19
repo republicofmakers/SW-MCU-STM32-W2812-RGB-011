@@ -1,4 +1,4 @@
-# SW-MCU-STM32-W2812-RGB-011
+# SW-MCU-STM32-WS2812-RGB-011
 
 Here is a RGB LED Controller Test Code uses PMW for STM32 microcontrollers.
 
